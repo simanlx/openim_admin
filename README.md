@@ -1,4 +1,4 @@
-# Open-IM-Server
+# Open-IM-Admin  openim后台管理
 
 Open-IM-Admin
 
